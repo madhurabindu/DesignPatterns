@@ -2,6 +2,8 @@
 
 ## Overview
 Design patterns are reusable solutions to common problems in software design, providing templates for creating flexible and maintainable code. They help developers address recurring design challenges by offering proven approaches that improve code organization and adaptability.
+
+
 ![](./pic.png)
 
 ## Types of Design Patterns
@@ -11,5 +13,10 @@ Design patterns are reusable solutions to common problems in software design, pr
 
 ## Beware!!
 Overuse or misapplication of patterns can lead to overly complex or rigid code that deviates from its intended purpose. Additionally, applying patterns without a clear understanding of the problem can result in unnecessary abstractions and maintenance challenges. It’s crucial to balance pattern use with practical needs to avoid these issues.
-![](./thistime.jpg)
+
 [Read more](https://metabox.io/design-patterns/)
+
+
+![](./thistime.jpg)
+
+
